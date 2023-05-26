@@ -5,7 +5,7 @@ import java.sql.SQLException;
 import dao.ContatoDao;
 import model.Contato;
 
-public class TesteDaoInsere {
+public class TesteInsereDao {
 
 	public static void main(String[] args) {
 		Contato contato = new Contato();
